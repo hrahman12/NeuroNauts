@@ -1,1 +1,1 @@
-# A website with Computational Neuroscience Challenges/Problems to solve!
+# A place to solve Computational Neuroscience Challenges!
